@@ -1,16 +1,77 @@
-## Hi there 👋
+One of my current projects is a private Discord bot named "DRM".
 
-<!--
-**PickAngE/PickAngE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Languages and Tools:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <a href="https://www.python.org" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+      alt="python"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://nodejs.org" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
+      alt="nodejs"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg"
+      alt="bash"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg"
+      alt="powershell"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://docs.microsoft.com/en-us/windows/package-manager/winget/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Winget-000000?style=for-the-badge&logo=winget&logoColor=white"
+      alt="winget"
+      width="80"
+      height="28"
+    />
+  </a>
+</p>
+
+---
+
+### My GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=PickAngE&show_icons=true&theme=radical"
+    alt="Your GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PickAngE&layout=compact&theme=radical"
+    alt="Top Langs"
+  />
+</p>
+
+---
+
+### My Contribution Graph
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=PickAngE&theme=radical"
+    alt="contribution graph"
+  />
+</p>
