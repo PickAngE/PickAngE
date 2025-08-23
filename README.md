@@ -1,7 +1,3 @@
-One of my current projects is a private Discord bot named "DRM".
-
----
-
 ### Languages and Tools:
 
 <p align="left">
