@@ -1,97 +1,73 @@
-### Languages and Tools:
+# Bienvenue sur mon profil GitHub
+
+
+---
+
+## Technologies et Outils
+
+### Langages de Programmation
 
 <p align="left">
-  <a href="https://www.python.org" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python"
-      width="40"
-      height="40"
-    />
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
   </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
-      alt="nodejs"
-      width="40"
-      height="40"
-    />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" height="45"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
-      alt="html5"
-      width="40"
-      height="40"
-    />
+</p>
+
+### Web Development
+
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
-      alt="css3"
-      width="40"
-      height="40"
-    />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/>
   </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg"
-      alt="bash"
-      width="40"
-      height="40"
-    />
+</p>
+
+### Scripting et Automation
+
+<p align="left">
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="45" height="45"/>
   </a>
-  <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg"
-      alt="powershell"
-      width="40"
-      height="40"
-    />
+  <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="PowerShell" width="45" height="45"/>
   </a>
-  <a href="https://docs.microsoft.com/en-us/windows/package-manager/winget/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/Winget-000000?style=for-the-badge&logo=winget&logoColor=white"
-      alt="winget"
-      width="80"
-      height="28"
-    />
+</p>
+
+### Package Managers
+
+<p align="left">
+  <a href="https://docs.microsoft.com/en-us/windows/package-manager/winget/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Winget-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Winget" height="32"/>
   </a>
 </p>
 
 ---
 
-### My GitHub Stats
+## Statistiques GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PickAngE&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PickAngE&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
+</div>
+
+---
+
+## Activité Récente
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=PickAngE&show_icons=true&theme=radical"
-    alt="Your GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PickAngE&layout=compact&theme=radical"
-    alt="Top Langs"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PickAngE&theme=radical&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" width="95%"/>
 </p>
 
 ---
 
-### My Contribution Graph
-
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=PickAngE&theme=radical"
-    alt="contribution graph"
-  />
+  <img src="https://komarev.com/ghpvc/?username=PickAngE&color=blueviolet&style=flat-square&label=Visiteurs" alt="Profile Views"/>
 </p>
