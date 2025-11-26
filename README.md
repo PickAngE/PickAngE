@@ -16,7 +16,7 @@
 
 ```javascript
 const PickAngE = {
-  role: "Développeur Full-Stack",
+  role: "Passionné de Code",
   location: "France",
   passions: ["Coding", "Automation"],
   currentFocus: "Discord Private Bot",
