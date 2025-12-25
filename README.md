@@ -18,8 +18,8 @@
 const PickAngE = {
   role: "Passionné de Code",
   location: "France",
-  passions: ["Coding", "Automation"],
-  currentFocus: "Discord Private Bot",
+  passions: ["Programmation", "Automatisation"],
+  currentFocus: "Aucun",
 };
 ```
 
