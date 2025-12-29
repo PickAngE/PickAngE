@@ -16,7 +16,7 @@
 const PickAngE = {
   role: "Passionné de Code",
   location: "France",
-  passions: ["Programmation", "Automatisation", "Rust"],
+  passions: ["Programmation", "Automatisation"],
   currentFocus: "KernelSecure",
 };
 ```
