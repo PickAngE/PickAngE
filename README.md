@@ -8,10 +8,16 @@
 
 </div>
 
-### 💬 Mon Statut Discord
-<a href="https://discord.com/users/831203332542300220">
-  <img src="https://lanyard.cnrad.dev/api/831203332542300220?theme=dark&bg=1e1b4b&animated=true" alt="Discord Status" />
-</a>
+---
+
+## 💬 Mon Statut Discord
+<div align="center">
+  <a href="https://discord.com/users/831203332542300220">
+    <img src="https://lanyard.cnrad.dev/api/831203332542300220?theme=dark&bg=1e1b4b&animated=true" alt="Discord Status" width="400px"/>
+  </a>
+</div>
+
+---
 
 ---
 
