@@ -6,18 +6,14 @@
 [![GitHub followers](https://img.shields.io/github/followers/PickAngE?style=for-the-badge&color=8b5cf6&labelColor=1e1b4b)](https://github.com/PickAngE?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/PickAngE?style=for-the-badge&color=a855f7&labelColor=1e1b4b)](https://github.com/PickAngE?tab=repositories)
 
-</div>
-
 ---
 
 ## 💬 Mon Statut Discord
 <div align="center">
   <a href="https://discord.com/users/831203332542300220">
-    <img src="https://lanyard.cnrad.dev/api/831203332542300220?theme=dark&bg=1e1b4b&animated=true" alt="Discord Status" width="400px"/>
+    <img src="https://lanyard.cnrad.dev/api/831203332542300220?theme=dark&bg=1e1b4b&animated=true&hideDiscrim=true" alt="Discord Status" width="400px"/>
   </a>
 </div>
-
----
 
 ---
 
