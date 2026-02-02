@@ -29,7 +29,7 @@ const PickAngE = {
     "Automatisation", 
     "Cybersécurité"
   ],
-  currentFocus: "KernelSecure",
+  currentFocus: "Aucun (None)",
 };
 ```
 
