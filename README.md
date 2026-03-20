@@ -50,4 +50,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PickAngE&layout=donut&theme=tokyonight&hide_border=true" alt="Language Distribution" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PickAngE&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PickAngE&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </p>
